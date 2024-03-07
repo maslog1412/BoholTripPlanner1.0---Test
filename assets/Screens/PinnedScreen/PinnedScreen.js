@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import CalendarPickerComponent from './CalendarPickerComponent';
 import NumberInput from './NumberInput';
-import { View } from 'react-native-web';
+import { View } from 'react-native';
 
 const PinnedScreen = () => {
   const [numberOfPeople, setNumberOfPeople] = useState(1);
