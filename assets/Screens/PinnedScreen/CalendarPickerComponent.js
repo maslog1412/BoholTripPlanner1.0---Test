@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import 'react-native-web.js';
 import { View, Text, Pressable } from 'react-native';
 import CalendarPicker from 'react-native-calendar-picker';
 import { differenceInCalendarDays } from 'date-fns';

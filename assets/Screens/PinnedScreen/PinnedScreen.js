@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import 'react-native-web.js';
 import CalendarPickerComponent from './CalendarPickerComponent';
 import NumberInput from './NumberInput';
 import { View } from 'react-native-web';

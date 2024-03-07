@@ -1,5 +1,4 @@
 import React from 'react';
-import 'react-native-web.js';
 import { View, Text, Image } from 'react-native';
 
 const TripfeedItemDetail = ({ route }) => {

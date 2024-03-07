@@ -1,5 +1,4 @@
 import React from 'react';
-import 'react-native-web.js';
 import FontAwesome5Icon from 'react-native-vector-icons/FontAwesome5';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { NavigationContainer } from '@react-navigation/native';

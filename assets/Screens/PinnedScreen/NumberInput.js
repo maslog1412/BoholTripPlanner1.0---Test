@@ -1,6 +1,5 @@
 // NumberInput.js
 import React from 'react';
-import 'react-native-web.js';
 import { View, Text, TouchableOpacity } from 'react-native';
 import { FontAwesome5 } from '@expo/vector-icons';
 import { pinnedStyles } from '../../../pinnedStyles';

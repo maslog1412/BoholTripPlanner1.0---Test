@@ -1,6 +1,5 @@
 // Header.js
 import React from 'react';
-import 'react-native-web.js';
 import { View, Text } from 'react-native';
 import FontAwesome5Icon from 'react-native-vector-icons/FontAwesome5';
 

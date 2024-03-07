@@ -1,5 +1,4 @@
 import React from 'react';
-import 'react-native-web.js';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Tripfeed from './Tripfeed';  
 import TripfeedItemDetail from './TripfeedItemDetail';

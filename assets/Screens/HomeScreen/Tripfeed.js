@@ -1,6 +1,5 @@
 // Tripfeed.js
 import React, { useState } from 'react';
-import 'react-native-web.js';
 import { View, ScrollView, Text, Image, Pressable } from 'react-native';
 
 import Header from './Header'; // Import the Header component
